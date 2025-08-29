@@ -11,7 +11,7 @@ There is also an agent.js file that is only for understanding that how can i cre
 ### 1. Clone Repo
 ```bash
 git clone https://github.com/shubhamsinghboura/MyAgent.git
-cd MyAgentAutomation
+cd MyAgent
 
 
 ### Open this link in your browser to see a demo of this agent.
